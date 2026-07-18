@@ -1,10 +1,10 @@
 <div align="center">
 
-# Welcome to My GitHub👋
+# Welcome to My GitHub🤝
 
 # I'm Swapna Pilli💙
 
-### B.Tech Computer Science & Engineering Student
+### B.Tech Computer Science & Engineering Student👩‍💻
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Driven+by+curiosity...;Passionate+about+building+practical+solutions.;Committed+to+continuous+learning.;Exploring+Full-Stack+Web+Development.;Building+real-world+projects+every+day." />
 
@@ -14,7 +14,7 @@
 
 ---
 
-# 👩‍💻 About Me
+# About Me🚀
 
 I'm **Swapna Pilli**, a **B.Tech Computer Science & Engineering** student with a strong interest in **Web Development**, **Data Analytics**, and **Backend Development**.
 
@@ -121,32 +121,39 @@ Automated data preprocessing and reporting using Python.
 
 ---
 
-# 📫 Connect With Me
+# 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/swapna-pilli-7b6653377/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:swapnapilli47@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/swapnapilli08" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
+  <img src="https://raw.githubusercontent.com/swapnapilli08/swapnapilli08/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </p>
+
+---
+
+# 📫 Let's Connect & Collaborate
 
 <p align="center">
 💬 I'm always open to connecting, collaborating on interesting projects, and learning from the developer community.
 </p>
 
+<p align="center">
+
+<a href="https://www.linkedin.com/in/swapna-pilli-7b6653377/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:swapnapilli47@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/swapnapilli08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -154,10 +161,9 @@ Automated data preprocessing and reporting using Python.
 
 ### ⭐ Learning isn't just about gaining knowledge—it's about applying it to create meaningful solutions.
 
-  Thanks for visiting my profile! 🚀
+Thanks for visiting my profile!🤝
 
 </div>
-
 
 
 
