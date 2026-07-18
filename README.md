@@ -110,15 +110,6 @@ Automated data preprocessing and reporting using Python.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=swapnapilli08&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -137,16 +128,6 @@ Automated data preprocessing and reporting using Python.
 - SQL
 - Data Analytics
 - AI Prompt Engineering
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Build high-quality real-world projects
-- ✅ Master Full-Stack Development
-- ✅ Strengthen SQL and Backend Development
-- ✅ Contribute to Open Source
-- ✅ Secure a Software Development Internship
 
 ---
 
@@ -174,7 +155,7 @@ Automated data preprocessing and reporting using Python.
 
 ### ⭐ "Learning isn't just about gaining knowledge—it's about applying it to create meaningful solutions."
 
-Thanks for visiting my profile! 🚀
+  Thanks for visiting my profile! 🚀
 
 </div>
 
