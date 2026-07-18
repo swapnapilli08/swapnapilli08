@@ -14,6 +14,8 @@
 
 # 👩‍💻 About Me
 
+<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
+
 I'm **Swapna Pilli**, a **B.Tech Computer Science & Engineering** student with a strong interest in **Web Development**, **Data Analytics**, and **Backend Development**.
 
 I enjoy transforming ideas into practical solutions through coding while continuously learning modern technologies.
