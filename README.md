@@ -153,7 +153,7 @@ Automated data preprocessing and reporting using Python.
 
 <p align="center">
 
-⭐ Thanks for visiting my profile. Let's build something amazing together!
+ Thanks for visiting my profile. Let's build something amazing together!🔥
 
 </p>
 
@@ -161,7 +161,7 @@ Automated data preprocessing and reporting using Python.
 
 <div align="center">
 
-### ⭐ Learning isn't just about gaining knowledge—it's about applying it to create meaningful solutions.
+### 🎯 Learning isn't just about gaining knowledge—it's about applying it to create meaningful solutions.
 
 Thanks for visiting my profile!🤝
 
