@@ -57,21 +57,12 @@ Building real-world projects and continuously improving my skills 🚀
 
 ---
 
-## 🎯 2026 Goals
-
-✅ Build real-world projects  
-✅ Improve programming skills  
-✅ Master Web Development  
-✅ Strengthen SQL & Data Analytics skills  
-✅ Get Software Development Internship
-
----
 
 ## 📫 Connect With Me
 
 💼 LinkedIn:linkedin.com/in/swapna-pilli-7b6653377
 
 📧 Email: swapnapilli47@gmail.com
-**swapnapilli08/swapnapilli08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
