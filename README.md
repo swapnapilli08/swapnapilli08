@@ -1,14 +1,14 @@
 <div align="center">
 
-#  Welcome to My GitHub👋
+# Welcome to My GitHub👋
 
-# Swapna Pilli💙
+# I'm Swapna Pilli💙
 
 ### B.Tech Computer Science & Engineering Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3200&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Driven+by+Curiosity+💡;Passionate+about+Building+Practical+Solutions+💻;Committed+to+Continuous+Learning+🚀;Exploring+Full-Stack+Development+🌐;Turning+Ideas+into+Code+✨"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Driven+by+curiosity...;Passionate+about+building+practical+solutions.;Committed+to+continuous+learning.;Exploring+Full-Stack+Web+Development.;Building+real-world+projects+every+day." />
 
-###  Learning • Building • Growing 💙
+###  Building today. Learning always. Growing continuously💙
 
 </div>
 
