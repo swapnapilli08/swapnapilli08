@@ -1,50 +1,126 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Swapna%20Pilli&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%7C%20Data%20Analytics%20%7C%20SQL&descAlignY=58"/>
+# 👋 Hi, I'm Swapna Pilli
 
-# Hi 👋 I'm Swapna Pilli
+### B.Tech Computer Science & Engineering Student
 
-### 🎓 B.Tech Computer Science & Engineering Student
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=00BFFF&center=true&vCenter=true&width=900&lines=Driven+by+curiosity...;Passionate+about+building+practical+solutions.;Committed+to+continuous+learning.;Exploring+Full-Stack+Web+Development.;Building+real-world+projects+every+day." />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Aspiring+Full+Stack+Web+Developer;Data+Analytics+Enthusiast;SQL+Learner;Backend+Development+Learner;Always+Learning+New+Technologies;Building+Real+World+Projects+🚀" />
-
-<p>
-<img src="https://komarev.com/ghpvc/?username=swapnapilli08&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/swapnapilli08?label=Followers&style=for-the-badge&color=blue"/>
-<img src="https://img.shields.io/github/stars/swapnapilli08?affiliations=OWNER&style=for-the-badge&color=yellow"/>
-</p>
+### 💙 Building today. Learning always. Growing continuously.
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+I'm **Swapna Pilli**, a **B.Tech Computer Science & Engineering** student with a strong interest in **Web Development**, **Data Analytics**, and **Backend Development**.
 
-🎓 B.Tech Computer Science & Engineering Student
+I enjoy transforming ideas into practical solutions through coding while continuously learning modern technologies.
 
-💻 Passionate about **Web Development**
+### 🌱 Currently Focused On
 
-📊 Exploring **Data Analytics**
+- 🌐 Full-Stack Web Development
+- ⚙️ Backend Development
+- 📊 Data Analytics
+- 🗄 SQL & Database Design
+- 💻 Programming & Problem Solving
 
-🗄️ Learning **SQL** and **Backend Development**
+### 🚀 What I'm Doing
 
-🌱 Currently improving my programming and problem-solving skills
-
-🚀 Building real-world projects to gain practical experience
-
-🎯 Goal: Become a Software Engineer and contribute to impactful products
+- Building real-world projects
+- Improving problem-solving skills
+- Learning modern software development practices
+- Exploring AI Prompt Engineering
+- Strengthening backend and database knowledge
 
 ---
 
+# 🚀 Featured Projects
 
+### 🚑 RapidAid
+
+Emergency assistance platform designed to provide quick access to essential emergency services.
+
+---
+
+### 📊 Customer Segmentation
+
+Customer clustering using Machine Learning for business insights.
+
+---
+
+### 📈 Predictive Analytics
+
+Prediction models built using Python and Machine Learning.
+
+---
+
+### 🧹 Data Cleaning & Reporting Automation
+
+Automated data preprocessing and reporting using Python.
+
+---
 
 # 💻 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+### Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,powerbi"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swapnapilli08&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnapilli08&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=swapnapilli08&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=swapnapilli08&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnapilli08&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -52,33 +128,52 @@
 
 # 🌱 Currently Learning
 
-- 🌐 Full Stack Web Development
-- ⚙️ Backend Development
-- 📊 Data Analytics
-- 🗄️ SQL
-- ☁️ Git & GitHub
-- 🚀 Real-World Project Development
+- Full-Stack Web Development
+- Backend Development
+- SQL
+- Data Analytics
+- AI Prompt Engineering
 
+---
 
-----
+# 🎯 2026 Goals
 
-# 🌐 Connect With Me
+- ✅ Build high-quality real-world projects
+- ✅ Master Full-Stack Development
+- ✅ Strengthen SQL and Backend Development
+- ✅ Contribute to Open Source
+- ✅ Secure a Software Development Internship
+
+---
+
+# 📫 Connect With Me
 
 <p align="left">
-<a href="linkedin.com/in/swapna-pilli-7b6653377">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://linkedin.com/in/swapna-pilli-7b6653377" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="swapnapilli47@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:swapnapilli47@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/swapnapilli08">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/swapnapilli08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 </p>
 
 ---
+
+<div align="center">
+
+### ⭐ "Learning isn't just about gaining knowledge—it's about applying it to create meaningful solutions."
+
+Thanks for visiting my profile! 🚀
+
+</div>
+
 
 
 
