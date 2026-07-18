@@ -121,21 +121,21 @@ Automated data preprocessing and reporting using Python.
 
 ---
 
-# 🐍 Contribution Snake
+# 🤝 Let's Connect & Collaborate
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/swapnapilli08/swapnapilli08/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
 
----
+💬 Passionate about technology, continuous learning, and building meaningful solutions. I'm always excited to connect with developers, recruiters, and tech enthusiasts to learn, collaborate, and grow together.
 
-# 📫 Let's Connect & Collaborate
-
-<p align="center">
-💬 I'm always open to connecting, collaborating on interesting projects, and learning from the developer community.
 </p>
 
 <p align="center">
+
+<a href="https://github.com/swapnapilli08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/swapna-pilli-7b6653377/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -147,11 +147,11 @@ Automated data preprocessing and reporting using Python.
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-&nbsp;&nbsp;
+</p>
 
-<a href="https://github.com/swapnapilli08" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+
+⭐ Thanks for visiting my profile. Let's build something amazing together!
 
 </p>
 
