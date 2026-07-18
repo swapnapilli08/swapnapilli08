@@ -14,8 +14,6 @@
 
 # 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-
 I'm **Swapna Pilli**, a **B.Tech Computer Science & Engineering** student with a strong interest in **Web Development**, **Data Analytics**, and **Backend Development**.
 
 I enjoy transforming ideas into practical solutions through coding while continuously learning modern technologies.
@@ -28,13 +26,17 @@ I enjoy transforming ideas into practical solutions through coding while continu
 - 🗄 SQL & Database Design
 - 💻 Programming & Problem Solving
 
+<p align="center">
+  <img width="350" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding"/>
+</p>
+
 ### 🚀 What I'm Doing
 
-- Building real-world projects
-- Improving problem-solving skills
-- Learning modern software development practices
-- Exploring AI Prompt Engineering
-- Strengthening backend and database knowledge
+- 🚀 Building real-world projects
+- 💻 Improving programming and problem-solving skills
+- 📚 Learning modern software development practices
+- 🤖 Exploring AI Prompt Engineering
+- 🗄️ Strengthening backend and database knowledge
 
 ---
 
